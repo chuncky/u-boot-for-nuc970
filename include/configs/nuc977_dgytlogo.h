@@ -203,6 +203,8 @@
 #define CONFIG_NUC977_LCD
 #define LCD_BPP                         LCD_COLOR16
 #define CONFIG_LCD_LOGO
+
+
 //#define CONFIG_LCD_INFO
 //#define CONFIG_LCD_INFO_BELOW_LOGO
 #define CONFIG_SYS_CONSOLE_IS_IN_ENV
